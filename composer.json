@@ -1,0 +1,15 @@
+{
+    "name": "localhost/ipd",
+    "autoload": {
+        "psr-4": {
+            "Localhost\\Ipd\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Altaf",
+            "email": "ah5509092@gmail.com"
+        }
+    ],
+    "require": {}
+}
